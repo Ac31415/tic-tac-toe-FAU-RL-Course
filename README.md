@@ -1,4 +1,4 @@
-# Tic Tac Toe 
+# Tic Tac Toe for FAU RL Course
 ## A tale about trying to train a machine to play Tic Tac Toe through Reinforcement Learning
 
 To run the Jupyter notebooks in Binder press:  [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fcarsten/tic-tac-toe/master)
